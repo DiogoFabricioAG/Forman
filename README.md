@@ -122,4 +122,4 @@ ollama run deepseek-coder:8b-instruct
 
 ## 🧾 Licencia
 
-MIT © 2025 — Creado por [Tu Nombre](https://github.com/tu-usuario)
+MIT © 2025 — Creado por [Diogo Abregu](https://github.com/diogofabricioAG)
