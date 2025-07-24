@@ -35,8 +35,8 @@ tu-proyecto/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/textmorph.git
-cd textmorph
+git clone https://github.com/tu-usuario/forman.git
+cd forman
 ```
 
 ### 2. Configurar el backend
